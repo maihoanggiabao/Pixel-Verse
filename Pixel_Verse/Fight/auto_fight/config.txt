@@ -1,0 +1,55 @@
+acc1
+{
+    "secret": "88ec3f12d75a3c13a40dfea8c52faf1a8e0bdaa93452339098bb7ade95f14271",
+    "tgId": "7087493274",
+    "initData": "query_id=AAGakHImAwAAAJqQcibNQdCs&user=%7B%22id%22%3A7087493274%2C%22first_name%22%3A%22Diep%20Pham%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719256476&hash=e2c3bb35f352d23fe5bfe79874fa8ea002ef971942a5be8e63216a9255fa9036",
+    "auto_upgrade": true
+}
+
+acc2
+{
+    "secret": "2cc81877c11a2c7eabe8449eaf60db4ba101eb7dfea3e8c901d868990e4f2ebf",
+    "tgId": "7162105823",
+    "initData": "query_id=AAHfD-UqAwAAAN8P5SpEiUR6&user=%7B%22id%22%3A7162105823%2C%22first_name%22%3A%22Hoai%20Nguyen%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719252500&hash=6507d2ad72c89314905664a0bf11dcd26f05babda4c9a46a902c060907351aff",
+    "auto_upgrade": true
+}
+
+acc3
+{
+    "secret": "c3a2063d8e51157cd6b67d8bfb3921756ba2a61cbe6fe8620c77b9794d0da2e3",
+    "tgId": "6475040446",
+    "initData": "query_id=AAG-RvEBAwAAAL5G8QGSFD9B&user=%7B%22id%22%3A6475040446%2C%22first_name%22%3A%22Lam%20Vinh%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719256533&hash=4d4e43680f82cc0c08e9d19581ab96047f30712da0901ec33a29ff1ffe306a8d",
+    "auto_upgrade": true
+}
+
+acc4
+{
+    "secret": "3a58daf6902e9ef08e18a5dd87a2128fd6f2e8d9020ea6fd9b4e4cc7658f3269",
+    "tgId": "7147861262",
+    "initData": "query_id=AAEOtQsqAwAAAA61CyrG-wRd&user=%7B%22id%22%3A7147861262%2C%22first_name%22%3A%22Lan%20Vu%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719257643&hash=019eea07182327b879f164a5f5a51a39d65e065da43f8012d944e11460118a06",
+    "auto_upgrade": true
+}
+
+acc5
+{
+    "secret": "0f2e08c3058245912b7e9a4ab99f07985b843ebca550e543b9e6f431a0df9b1d",
+    "tgId": "6504833910",
+    "initData": "query_id=AAF247cDAwAAAHbjtwNHyxO3&user=%7B%22id%22%3A6504833910%2C%22first_name%22%3A%22Binh%20Ninh%22%2C%22last_name%22%3A%22%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1719258156&hash=78675723a683ac15bb719173020edd34cf9a6efb2cee57408bc12331bd2f8803",
+    "auto_upgrade": true
+}
+
+ka
+{
+    "secret": "",
+    "tgId": "",
+    "initData": "",
+    "auto_upgrade": true
+}
+
+giabao
+{
+    "secret": "",
+    "tgId": "",
+    "initData": "",
+    "auto_upgrade": true
+}
